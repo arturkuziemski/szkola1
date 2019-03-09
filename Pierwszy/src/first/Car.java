@@ -24,7 +24,7 @@ void printCar(){
 	System.out.println("Nowy" + isNew);
 	System.out.println("Przebieg" + milleage);
 	System.out.println("Cena" + price);
-	
+	//halo
 }
 public String getBrand(){
 	return brand;
