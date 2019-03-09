@@ -7,5 +7,6 @@ public class program {
 		car.printCar();
 		System.out.println("=====> zamiana wartosci");
 		car.setMilleage(100);
+		System.out.println("nowy przebieg" + car.getMilleage());
 			}
 	}
